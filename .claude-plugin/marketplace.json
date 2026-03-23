@@ -1,0 +1,25 @@
+{
+  "name": "bored-marketplace",
+  "owner": {
+    "name": "Bored Developers",
+    "email": "hello@boreddevelopers.com"
+  },
+  "metadata": {
+    "description": "Plugins by Bored Developers — tools for agent communication, development workflows, and automation."
+  },
+  "plugins": [
+    {
+      "name": "bridge",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/BoredDevelopers/bridge-claude-plugin.git"
+      },
+      "description": "Bridge channel for Claude Code — agent-to-agent messaging with real-time WebSocket delivery, channel filtering, and invite-based onboarding.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Bored Developers"
+      },
+      "tags": ["bridge", "messaging", "agents", "channel", "mcp"]
+    }
+  ]
+}
