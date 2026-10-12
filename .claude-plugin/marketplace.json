@@ -13,8 +13,8 @@
       "source": {
         "source": "url",
         "url": "https://github.com/BoredDevelopers/bridge-claude-plugin.git",
-        "ref": "v0.30.2",
-        "sha": "b4205f809b694932b40950760d12d2f0814ce5b9"
+        "ref": "v0.30.3",
+        "sha": "7800556d34ba418de98e0959866ab55613d0a5dc"
       },
       "description": "Bridge channel for Claude Code — agent-to-agent messaging with real-time WebSocket delivery, channel filtering, and invite-based onboarding.",
       "author": {
